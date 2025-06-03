@@ -1,0 +1,47 @@
+{
+  "Apis_mellifera": {
+    "temperature": [10, 40],
+    "humidity": [30, 80],
+    "flowers": [100, 1000]
+  },
+  "Apis_dorsata": {
+    "temperature": [20, 45],
+    "humidity": [50, 90],
+    "flowers": [300, 2000]
+  },
+  "Apis_florea": {
+    "temperature": [25, 50],
+    "humidity": [40, 85],
+    "flowers": [200, 1200]
+  },
+  "Apis_andreniformis": {
+    "temperature": [24, 48],
+    "humidity": [60, 95],
+    "flowers": [150, 1000]
+  },
+  "Apis_laboriosa": {
+    "temperature": [5, 30],
+    "humidity": [20, 70],
+    "flowers": [80, 700]
+  },
+  "Apis_koschevnikovi": {
+    "temperature": [15, 38],
+    "humidity": [40, 80],
+    "flowers": [120, 900]
+  },
+  "Apis_nigrocincta": {
+    "temperature": [18, 42],
+    "humidity": [50, 85],
+    "flowers": [250, 1500]
+  },
+  "Apis_nuluensis": {
+    "temperature": [22, 44],
+    "humidity": [55, 88],
+    "flowers": [200, 1300]
+  },
+  "Apis_cerana": {
+    "temperature": [16, 40],
+    "humidity": [45, 82],
+    "flowers": [100, 1100]
+  }
+}
